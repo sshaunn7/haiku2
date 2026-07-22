@@ -6,7 +6,10 @@ html {
 body {
 	margin: 1rem;
 	background-color: black;
-	color: whitesmoke;
+	color:  #00ff66;
+	text-shadow:
+		0 0 8px #00ff66,
+		0 0 18px #00ff66;
 	font-size: 5rem;
 	overflow: hidden;
 	background-image: url("../img/code.gif");
